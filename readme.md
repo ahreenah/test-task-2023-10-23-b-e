@@ -3,7 +3,7 @@
 to install required dependncies run
 `yarn install`
 
-# Running applicatiuon
+# Running application
 
 to run application run
 `yarn start`
